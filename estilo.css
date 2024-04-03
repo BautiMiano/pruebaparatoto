@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+form{
+    width: 700px;
+    margin:auto;
+    background-color: #fff;
+}
+input{
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
+textarea{
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
